@@ -1,0 +1,41 @@
+/* .btn {
+    background-color: chartreuse;
+} */
+
+nav {
+    background-color: black;
+}
+
+#myFooter {
+    background-color: black;
+    text-align: center;
+}
+
+
+body {
+    background-image: url("./assets/images/zen.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#image {
+    max-width: 100%;
+    width: 200px;
+    height: 200px;
+    margin-right: 25px;
+}
+
+h3 {
+    font-family: 'Rock Salt', serif;
+}
+
+/* p {
+    font-family: 'Handlee', serif;
+} */
+
+.handlee-font {
+    font-family: 'Handlee', serif;
+
+}
