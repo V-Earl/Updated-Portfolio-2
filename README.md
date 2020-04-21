@@ -1,4 +1,4 @@
-# Updated-Portfolio
+# Updated-Portfolio 2
 ## Requirements and Comments:
 
 * Updated portfolio featuring Project 1 and 2 and four homework assignments.
