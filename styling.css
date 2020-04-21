@@ -40,5 +40,10 @@ h3 {
 }
 
 .card-title {
-    color: #ff6f00 !important;
+    color: #e65100 !important;
+    text-align: center;
 }
+
+/* .responsive-img {
+    border: 15px red;
+} */
